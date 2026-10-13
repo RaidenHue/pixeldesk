@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PixelDesk
 
 Retro pixel-art RPG file organizer for Windows (Electron + TypeScript).
@@ -18,3 +19,7 @@ Optional fonts: see assets/fonts/README.txt
 - Every sort is saved to the Journal and can be undone (also confirmed, also non-overwriting).
 - Electron: contextIsolation on, nodeIntegration off, sandbox on, strict CSP, navigation blocked,
   typed + validated IPC, sender-frame check, restricted preload API.
+=======
+# pixeldesk
+Simple File Organizer With a Pixelated Game-like UI
+>>>>>>> 126452df64813d8068dcbbefc5612bc38a3f2aa8
