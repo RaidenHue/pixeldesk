@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PixelDesk
 
 Retro pixel-art RPG file organizer for Windows (Electron + TypeScript).
@@ -22,4 +21,3 @@ Optional fonts: see assets/fonts/README.txt
 =======
 # pixeldesk
 Simple File Organizer With a Pixelated Game-like UI
->>>>>>> 126452df64813d8068dcbbefc5612bc38a3f2aa8
